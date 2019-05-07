@@ -1,3 +1,3 @@
 # Server-chat-CodeOasis
 
-** users to login = Tom,Test,CodeOasis
+ # users to login : Tom,Test,CodeOasis
